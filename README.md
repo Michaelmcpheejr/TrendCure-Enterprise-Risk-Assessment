@@ -43,4 +43,13 @@ This repository contains an enterprise risk assessment for **TrendCure Health**,
 5. Open `registers/risk_register.csv` for the full register
 
 ## Notes
-This is a simulated enterprise assessment, structured to mirror real GRC deliverables and audit-ready documentation.
+
+### Why This Matters
+
+Enterprise risk assessments are core deliverables for GRC teams and are essential for:
+- Preparing for external audits
+- Communicating risk to leadership
+- Prioritizing security investments
+- Supporting compliance with industry and regulatory frameworks
+
+This assessment is structured to be **reviewed and expanded**, especially evidence mapping, which is intentionally left flexible to align with organizational tooling and audit expectations.
