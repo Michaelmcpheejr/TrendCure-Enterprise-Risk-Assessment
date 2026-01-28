@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Office/temp
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# PDFs exports if you want to keep them out (optional)
+# *.pdf
+
+# Evidence images (optional: comment out if you want tracked)
+# evidence/
